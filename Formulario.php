@@ -8,6 +8,7 @@
 </head>
 
 <body style="background-color:powderblue;">
+
 <H1><p ><center><FONT COLOR="red"> LA EMPRESA S.A de C.V</FONT></center></H1>
     <h5><center><FONT COLOR="gray">ACTIVIDADES DE ASESORAMIENTO EMPRESARIAL</FONT></center></h5>
     <h6><center><FONT COLOR="gray">Departamentos de San Salvador * El Salvador*Centroamerica</FONT></center></h6>
