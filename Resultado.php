@@ -9,6 +9,7 @@
 <body>
 <h1>REGISTRO FORMULARIO</h1>
 <?php
+
     if(isset($_REQUEST["nombrec"]))
     {   $nombrec=$_REQUEST["nombrec"];
         $fecha=$_REQUEST["fecha"];
